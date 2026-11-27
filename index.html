@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EzMate</title>
+    <link rel="icon" href="/pieces/staunty/wN.svg" />
+  </head>
+  <body>
+    <header>
+      <h1><button id="logo">EzMate</button></h1>
+      <nav id="tabs">
+        <button data-tab="home">Home</button>
+        <button data-tab="bot">Bot</button>
+        <button data-tab="analysis">Analysis</button>
+        <button data-tab="lichess">Lichess</button>
+        <button data-tab="tournaments">Tournaments</button>
+        <button data-tab="themes">Themes</button>
+      </nav>
+    </header>
+    <main>
+      <div id="page"></div>
+      <div id="game" hidden>
+        <section id="table">
+          <div class="player" id="top"></div>
+          <div id="board"></div>
+          <div class="player" id="bottom"></div>
+          <p id="line" class="note"></p>
+        </section>
+        <aside>
+          <p id="status" role="status"></p>
+          <div id="panel"></div>
+        </aside>
+      </div>
+    </main>
+    <dialog id="promotion">
+      <p>Promote to</p>
+      <form method="dialog">
+        <button value="q">Queen</button>
+        <button value="r">Rook</button>
+        <button value="b">Bishop</button>
+        <button value="n">Knight</button>
+      </form>
+    </dialog>
+    <footer>
+      <a href="/LICENSING.md">Licenses</a>: own code MIT. Board: chessground. Engine: Stockfish.js. Themes: Lichess and artists, see <a href="/CREDITS.md">credits</a>.
+    </footer>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

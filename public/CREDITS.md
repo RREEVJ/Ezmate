@@ -1,0 +1,68 @@
+# Theme credits
+
+From https://github.com/lichess-org/lila at 917efacbcc90f6147955a9d781266000a34d8fe6
+
+- pieces/anarcandy: [caderek](https://github.com/caderek), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/caliente: [avi](https://github.com/avi-0/caliente), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/california: [Jerry S.](https://sites.google.com/view/jerrychess/home), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/cardinal: sadsnake1, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/cburnett: [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett), [GPLv2+](https://www.gnu.org/licenses/gpl-2.0.txt)
+- pieces/celtic: [Maurizio Monge](https://github.com/maurimo/chess-art), [MIT](https://github.com/maurimo/chess-art/blob/main/LICENSE)
+- pieces/chessboart: [Michał Fudalej / ChessboArt](https://chessboart.com), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/chessnut: [Alexis Luengas](https://github.com/LexLuengas), [Apache 2.0](https://github.com/LexLuengas/chessnut-pieces/blob/master/LICENSE.txt)
+- pieces/cooke: [fejfar](https://github.com/fejfar), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/disguised: danegraphics, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/dubrovny: sadsnake1, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/fantasy: [Maurizio Monge](https://github.com/maurimo/chess-art), [MIT](https://github.com/maurimo/chess-art/blob/main/LICENSE)
+- pieces/firi: [James Faure](https://github.com/jfaure/Firi-pieceset), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- pieces/fresca: sadsnake1, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/gioco: sadsnake1, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/governor: lila authors, AGPLv3+ (lila default)
+- pieces/horsey: cham, michael1241, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/icpieces: sadsnake1, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/kiwen-suwi: [neverRare](https://github.com/neverRare), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- pieces/kosal: lila authors, AGPLv3+ (lila default)
+- pieces/letter: [usolando](https://lichess.org/@/usolando), AGPLv3+
+- pieces/maestro: sadsnake1, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/merida: Armando Hernandez Marroquin, [GPLv2+](https://www.gnu.org/licenses/gpl-2.0.txt)
+- pieces/minimal-warmth: [blunder_reign](https://lichess.org/@/blunder_reign), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/monarchy: [slither77](https://github.com/slither77), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/mono: Thibault Duplessis and [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett), [GPLv2+](https://www.gnu.org/licenses/gpl-2.0.txt)
+- pieces/mpchess: [Maxime Chupin](https://github.com/chupinmaxime), [GPL3v3+](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
+- pieces/papercut: [Nikolay Anzarov](https://nikoichu.itch.io/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- pieces/pirouetti: [pirouetti](https://lichess.org/@/pirouetti), AGPLv3+
+- pieces/pixel: therealqtpi, AGPLv3+
+- pieces/rhosgfx: [RhosGFX](https://rhosgfx.itch.io/), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+- pieces/shapes: [flugsio](https://github.com/flugsio/chess_shapes), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- pieces/spatial: [Maurizio Monge](https://github.com/maurimo/chess-art), [MIT](https://github.com/maurimo/chess-art/blob/main/LICENSE)
+- pieces/staunty: sadsnake1, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/tatiana: sadsnake1, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- pieces/totoy: [Kosal Sen](https://github.com/lichess-org/lila), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- pieces/xkcd: [Randall Munroe](https://xkcd.com/about), [CC BY-NC-SA 2.5](https://xkcd.com/license.html)
+- boards/blue-marble.jpg: lila authors and pirouetti, AGPLv3+
+- boards/blue.png: lila authors and pirouetti, AGPLv3+
+- boards/blue2.jpg: lila authors and pirouetti, AGPLv3+
+- boards/blue3.jpg: lila authors and pirouetti, AGPLv3+
+- boards/brown.png: lila authors and pirouetti, AGPLv3+
+- boards/canvas2.jpg: lila authors and pirouetti, AGPLv3+
+- boards/green-plastic.png: lila authors and pirouetti, AGPLv3+
+- boards/green.png: lila authors and pirouetti, AGPLv3+
+- boards/grey.jpg: lila authors and pirouetti, AGPLv3+
+- boards/horsey.jpg: lila authors and pirouetti, AGPLv3+
+- boards/ic.png: lila authors and pirouetti, AGPLv3+
+- boards/leather.jpg: lila authors and pirouetti, AGPLv3+
+- boards/maple.jpg: lila authors and pirouetti, AGPLv3+
+- boards/maple2.jpg: lila authors and pirouetti, AGPLv3+
+- boards/marble.jpg: lila authors and pirouetti, AGPLv3+
+- boards/metal.jpg: lila authors and pirouetti, AGPLv3+
+- boards/ncf-board.png: lila authors and pirouetti, AGPLv3+
+- boards/olive.jpg: lila authors and pirouetti, AGPLv3+
+- boards/pink-pyramid.png: lila authors and pirouetti, AGPLv3+
+- boards/purple-diag.png: lila authors and pirouetti, AGPLv3+
+- boards/purple.png: lila authors and pirouetti, AGPLv3+
+- boards/chessboart.svg: [Michał Fudalej / ChessboArt](https://chessboart.com), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- boards/newspaper.svg: lila authors and pirouetti, AGPLv3+
+- boards/wood.jpg: lila authors and pirouetti, AGPLv3+
+- boards/wood2.jpg: lila authors and pirouetti, AGPLv3+
+- boards/wood3.jpg: lila authors and pirouetti, AGPLv3+
+- boards/wood4.jpg: lila authors and pirouetti, AGPLv3+
